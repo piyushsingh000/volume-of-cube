@@ -1,0 +1,11 @@
+#include <iostream>
+using namespace std;
+int main ( ) {
+     int a ;
+     int volume;
+     cout<<"rnter value of a : ";
+     cin>>a;
+     volume = a*a*a ;
+     cout<<volume <<"\n";
+     return 0;
+}
